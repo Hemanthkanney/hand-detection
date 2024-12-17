@@ -48,8 +48,8 @@ Special thanks to the developers of OpenCV and MediaPipe for their contributions
 
 ## Contact
 
-For any inquiries or suggestions, please contact [Your Name] <your.email@example.com>.
+For any inquiries or suggestions, please contact [Kanney Sai Hemanth] <hemanthgent45@gmail.com>.
 
 --- 
 
-Feel free to customize this README according to your specific project details, such as adding more details about the implementation, how to interpret the results, or any other relevant information.
+Feel free to customize this README according to your specific project details, such as adding more details about the implementation, how to interpret the results or any other relevant information.
